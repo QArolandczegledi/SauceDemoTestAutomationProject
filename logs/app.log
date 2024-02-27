@@ -1,0 +1,59 @@
+2024-02-27 18:26:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rolan\IdeaProjects\SauceDemoTestAutomationProject\src\test\resources\smoke-test-suite.xml"
+2024-02-27 18:26:50 INFO  LoggerUtil:11 - WebDriver initialized and navigated to URL: https://www.saucedemo.com/
+2024-02-27 18:26:50 INFO  LoggerUtil:11 - Attempting to login with user: standard_user
+2024-02-27 18:26:50 INFO  LoggerUtil:11 - Login successful for user: standard_user
+2024-02-27 18:26:50 INFO  LoggerUtil:11 - Setup for CheckoutTest completed.
+2024-02-27 18:26:50 INFO  LoggerUtil:11 - Starting checkOutFlowTest.
+2024-02-27 18:26:50 INFO  LoggerUtil:11 - Added products to the cart.
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Price for Sauce Labs Backpack: 29.99
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Price for Sauce Labs Bike Light: 9.99
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Price for Sauce Labs Bolt T-Shirt: 15.99
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Price for Sauce Labs Fleece Jacket: 49.99
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Price for Sauce Labs Onesie: 7.99
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Price for Test.allTheThings() T-Shirt (Red): 15.99
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Total price of products: 129.94
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Proceeded to checkout.
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Filled checkout information for customer: Demetris Sibyls
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Verified totals with soft assert. Expected: 129.94, Actual: 129.94
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Checkout process completed. Success: true
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Screenshot captured: screenshots/checkOutFlowTest_PASSED_1709054811717.png
+2024-02-27 18:26:51 INFO  LoggerUtil:11 - Test passed: checkOutFlowTest
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - WebDriver initialized and navigated to URL: https://www.saucedemo.com/
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - Attempting to login with user: standard_user
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - Login successful for user: standard_user
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - InventoryPageTests setup complete.
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - Starting test: Sorting by name descending.
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - Sorting by name descending test passed.
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - Screenshot captured: screenshots/testSortByNameDescending_PASSED_1709054813756.png
+2024-02-27 18:26:53 INFO  LoggerUtil:11 - Test passed: testSortByNameDescending
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - WebDriver initialized and navigated to URL: https://www.saucedemo.com/
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - Attempting to login with user: standard_user
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - Login successful for user: standard_user
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - InventoryPageTests setup complete.
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - Starting test: Sorting by price ascending.
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - Sorting by price ascending test passed.
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - Screenshot captured: screenshots/testSortByPriceAscending_PASSED_1709054815873.png
+2024-02-27 18:26:55 INFO  LoggerUtil:11 - Test passed: testSortByPriceAscending
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - WebDriver initialized and navigated to URL: https://www.saucedemo.com/
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - Attempting to login with user: standard_user
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - Login successful for user: standard_user
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - InventoryPageTests setup complete.
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - Starting test: Sorting by price descending.
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - Sorting by price descending test passed.
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - Screenshot captured: screenshots/testSortByPriceDescending_PASSED_1709054817897.png
+2024-02-27 18:26:57 INFO  LoggerUtil:11 - Test passed: testSortByPriceDescending
+2024-02-27 18:26:59 INFO  LoggerUtil:11 - WebDriver initialized and navigated to URL: https://www.saucedemo.com/
+2024-02-27 18:26:59 INFO  LoggerUtil:11 - Starting login test.
+2024-02-27 18:26:59 INFO  LoggerUtil:11 - Attempting to login with user: standard_user
+2024-02-27 18:26:59 INFO  LoggerUtil:11 - Login successful for user: standard_user
+2024-02-27 18:26:59 INFO  LoggerUtil:11 - Screenshot captured: screenshots/loginTest_PASSED_1709054819653.png
+2024-02-27 18:26:59 INFO  LoggerUtil:11 - Test passed: loginTest
+2024-02-27 18:27:01 INFO  LoggerUtil:11 - WebDriver initialized and navigated to URL: https://www.saucedemo.com/
+2024-02-27 18:27:01 INFO  LoggerUtil:11 - Setting up login before the test.
+2024-02-27 18:27:01 INFO  LoggerUtil:11 - Attempting to login with user: standard_user
+2024-02-27 18:27:01 INFO  LoggerUtil:11 - Login successful for user: standard_user
+2024-02-27 18:27:01 INFO  LoggerUtil:11 - Login performed successfully.
+2024-02-27 18:27:01 INFO  LoggerUtil:11 - Attempting to log out.
+2024-02-27 18:27:02 INFO  LoggerUtil:11 - Logout successful.
+2024-02-27 18:27:02 INFO  LoggerUtil:11 - Screenshot captured: screenshots/logOut_PASSED_1709054822143.png
+2024-02-27 18:27:02 INFO  LoggerUtil:11 - Test passed: logOut
